@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KimmyDeku
-- 👀 I’m interested in coding and anime
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me ruzivomunyoro@gmail.com
