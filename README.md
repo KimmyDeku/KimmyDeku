@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @KimmyDeku
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on AI projects
-- 📫 How to reach me ruzivomunyoro@gmail.com
-- 😄 Pronouns: She/Her
+On a mission to automate the tedious. Full-stack + AI + data, aimed at one thing: less friction, more done.
 
 <!---
 KimmyDeku/KimmyDeku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
