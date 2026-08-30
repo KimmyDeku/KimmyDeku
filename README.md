@@ -1,4 +1,4 @@
-On a mission to automate the tedious. Full-stack + AI + data, aimed at one thing: less friction, more done.
+On a mission to automate the tedious. Full-stack + AI + data, aimed at one thing: less friction, more done✨
 
 <!---
 KimmyDeku/KimmyDeku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
